@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:51.630453
+#+DATE: 2015-08-30 21:02:52.245791
 #+TITLE: 轉經行道願往生淨土法事讚
 #+PROPERTY: CBETA_ID T47n1979
 #+PROPERTY: ID KR6p0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1979
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6p0074_T_000-0424b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0074_T_002-0430c> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 下安樂行道轉經願生淨土法事讚¶
+安樂行道轉經願生淨土法事讚¶
 下卷¶
 ¶
 沙門善導集記¶
@@ -26,7 +25,7 @@
 訶迦葉。摩訶迦旃延。摩訶俱絺羅。離婆多。¶
 周利槃陀伽。難陀。阿難陀。羅睺羅。憍梵波¶
 提。賓頭盧頗羅墮。迦留陀夷。摩訶劫賓那。薄¶
-拘羅。阿㝹樓馱。如是等諸大弟子。并諸菩¶
+拘羅。阿[少/兔]樓馱。如是等諸大弟子。并諸菩¶
 薩摩訶薩。文殊師利法王子。阿逸多菩薩。乾¶
 陀訶提菩薩。常精進菩薩。與如是等諸大菩¶
 薩。及釋提桓因等。無量諸天大眾俱。¶
