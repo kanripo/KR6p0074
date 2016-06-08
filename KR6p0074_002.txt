@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:51.630453
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:55
 #+TITLE: 轉經行道願往生淨土法事讚
 #+PROPERTY: CBETA_ID T47n1979
 #+PROPERTY: ID KR6p0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1979
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6p0074_T_000-0424b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6p0074_T_002-0430c> ¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 下安樂行道轉經願生淨土法事讚¶
+安樂行道轉經願生淨土法事讚¶
 下卷¶
 ¶
 沙門善導集記¶
@@ -806,9 +805,9 @@
 　七周行道散華竟(願往生)
 　供養冥空諸佛會(無量樂)¶
 　般舟三昧樂(願往生)
-　大會頂禮別彌陀(無量樂)
+　大會頂禮別彌陀(無量樂)」
 #+END_VERSE
-」¶
+¶
 
 行道散華七周竟次向佛前立唱讚云。¶
 
@@ -833,9 +832,9 @@
 　願佛慈心遙護念(無量樂)
 <pb:KR6p0074_T_002-0437c>¶
 　般舟三昧樂(願往生)
-　同生相勸盡須來(無量樂)
+　同生相勸盡須來(無量樂)」
 #+END_VERSE
-」¶
+¶
 
 次打磬子唱敬禮常住三寶。¶
 
